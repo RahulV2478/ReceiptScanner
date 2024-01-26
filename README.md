@@ -1,6 +1,6 @@
 # Receipt Scanner App
 
-The Receipt Scanner App is a versatile mobile application that simplifies the process of scanning, storing, and managing receipts. This README provides an overview of the app's features, installation instructions, and how to use it effectively. Please if you have time can you please watch the video link that describes the project
+The Receipt Scanner App is a versatile mobile application that simplifies the process of scanning, storing, and managing receipts. This README provides an overview of the app's features, installation instructions, and how to use it effectively.
 
 ## Features
 
